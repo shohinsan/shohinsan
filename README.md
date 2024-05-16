@@ -11,9 +11,10 @@ Born and raised in Tajikistan, I moved to the United States in 2017 to pursue my
 
 When I am not coding, I enjoy playing soccer and hiking. Gaming is also another passion of mine, and I'm always looking for ways to add more excitement to my gaming experience or improve my skills. It's a fantastic way for me to unwind and have some fun.
 
-## Technologies I have explored:
+## Technologies 🛠️
 
 <!-- https://badges.pages.dev/?q=FastApi -->
+#### I have explored
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -46,11 +47,25 @@ When I am not coding, I enjoy playing soccer and hiking. Gaming is also another 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&style=flat)
 
-Bonus stack:
+#### Bonus 🍕
 
 ![McDonald's](https://img.shields.io/badge/McDonald's-FBC817?logo=mcdonalds&logoColor=000&style=flat)
 ![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff&style=flat)
 ![Starbucks](https://img.shields.io/badge/Starbucks-006241?logo=starbucks&logoColor=fff&style=flat)
+
+<!-- 
+## Projects
+* Key
+  - MorteSense
+  - Starbucks
+* Side 
+  - iFarmo
+  - GinGonic
+  - SaleSphereAPI
+  - BookUp
+  - ...
+-->
+
 
 <details> 
 	<summary>Find me around the web 🌎</summary>
