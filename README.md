@@ -4,12 +4,14 @@
 
 ## Current State 
 
-Working on open-sourcing MorteSense DIY Home Security System and publish it for researchers to use in their projects.
+Working on a productivity app that merges scheduling, social connectivity, and collaboration.
 
 ## About Me 
 Born and raised in Tajikistan, I moved to the United States in 2017 to pursue my dream of becoming a Software Engineer. I graduated from San Jose State University, majoring in Software Engineering. I am captivated by the idea of digital transformation to solve real problems and make everyday life better for everyone.
 
 When I am not coding, I enjoy playing soccer and hiking. Gaming is also another passion of mine, and I'm always looking for ways to add more excitement to my gaming experience or improve my skills. It's a fantastic way for me to unwind and have some fun.
+
+Previously, I worked on open-sourcing MorteSense DIY Home Security System and publish it for researchers to use in their projects.
 
 ## Technologies 🛠️
 
@@ -53,6 +55,11 @@ When I am not coding, I enjoy playing soccer and hiking. Gaming is also another 
 ![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff&style=flat)
 ![Starbucks](https://img.shields.io/badge/Starbucks-006241?logo=starbucks&logoColor=fff&style=flat)
 
+## Certificates & Stats
+
+[![google-it-support-certificate](https://github.com/user-attachments/assets/d4342035-a592-4f45-bc1c-c4c9b7dc6154)](https://www.credly.com/badges/e454f9c0-53b7-4f2f-a7ea-1492f78a0369/public_url)
+[![github-foundations](https://github.com/user-attachments/assets/4e4e990e-b468-4d92-8d30-5c6e4a60392c)](https://www.credly.com/badges/ed566a74-72ac-4fe7-b1b8-c2f0a80914f4/public_url)
+
 <!-- 
 ## Projects
 * Key
@@ -65,18 +72,5 @@ When I am not coding, I enjoy playing soccer and hiking. Gaming is also another 
   - BookUp
   - ...
 -->
-
-
-<details> 
-	<summary>Find me around the web 🌎</summary>
-	<br>
-		<ul>
-				<li><a href="https://t.me/shohinsan">Telegram Messenger</a></li>
-				<li><a href="https://twitter.com/ShohinAbd">X Account</a></li>
-				<li><a href="https://www.instagram.com/shohin.abd/">Instagram Account</a></li>
-        <li><a href="https://www.linkedin.com/in/shohin-abdulkhamidov/">LinkedIn Account</a></li>
-        <li><a href="https://steamcommunity.com/profiles/76561198390631558//">Steam Account</a></li>
-		</ul>
-</details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohinsan&show_icons=true)
