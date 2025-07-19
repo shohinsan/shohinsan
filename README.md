@@ -17,25 +17,25 @@ Previously, I worked on open-sourcing MorteSense DIY Home Security System and pu
 
 <!-- https://badges.pages.dev/?q=FastApi -->
 #### I have explored
-
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
@@ -43,9 +43,9 @@ Previously, I worked on open-sourcing MorteSense DIY Home Security System and pu
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&style=flat)
 
@@ -59,6 +59,7 @@ Previously, I worked on open-sourcing MorteSense DIY Home Security System and pu
 
 [![google-it-support-certificate](https://github.com/user-attachments/assets/d4342035-a592-4f45-bc1c-c4c9b7dc6154)](https://www.credly.com/badges/e454f9c0-53b7-4f2f-a7ea-1492f78a0369/public_url)
 [![github-foundations](https://github.com/user-attachments/assets/4e4e990e-b468-4d92-8d30-5c6e4a60392c)](https://www.credly.com/badges/ed566a74-72ac-4fe7-b1b8-c2f0a80914f4/public_url)
+[![aws-educate-machine-learning-foundations](https://github.com/user-attachments/assets/82e0a129-015d-4b8e-a58a-44e27ae56607)](https://www.credly.com/badges/e34ffd66-0b25-40c3-92ad-9212acd52f2a/public_url)
 
 <!-- 
 ## Projects
