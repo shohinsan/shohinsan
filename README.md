@@ -4,7 +4,7 @@
 
 ## About Me 
 
-I was born and raised in Tajikistan and **graduated** from San Jose State University with a degree in _Software Engineering_. I **focus** on building intelligent, user-centered systems that make everyday tasks simpler and more effective.    
+I was born and raised in Tajikistan and later **graduated** from San Jose State University with a degree in _Software Engineering_. I **focus** on building intelligent, user-centered systems that make everyday tasks simpler and more effective.    
 
 Recently, I have begun **exploring** a path as a _Machine Learning Developer_, focusing on researching, designing, and building intelligent systems. This complements **my current work** on a productivity app that integrates scheduling, social connectivity, and collaboration to enhance everyday efficiency. 
 
